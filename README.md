@@ -24,12 +24,12 @@ Pudiendo asi compartir entre ellos el portapapeles de todos siendo siempre dispo
       ```bash
       npm run start
       
-   [!IMPORTANT]
-   Debes de compiar la ip de la maquina donde esta el servidor y ponerla en el codigo del cliente
-   para que se pueda conectar.
+   > [!IMPORTANT]
+   > Debes de compiar la ip de la maquina donde esta el servidor y ponerla en el codigo del cliente
+   > para que se pueda conectar.
 
-   [!WARNING]
-   Debes de estar dentro de la misma WIFI.
+   > [!WARNING]
+   > Debes de estar dentro de la misma WIFI.
    
   - Inicias el cliente:
        ```bash
