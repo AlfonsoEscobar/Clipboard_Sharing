@@ -24,20 +24,23 @@ Pudiendo asi compartir entre ellos el portapapeles de todos siendo siempre dispo
       ```bash
       npm run start
       
-   :warning:
+   [!IMPORTANT]
    Debes de compiar la ip de la maquina donde esta el servidor y ponerla en el codigo del cliente
    para que se pueda conectar.
-   :warning:
+
+   [!WARNING]
    Debes de estar dentro de la misma WIFI.
    
   - Inicias el cliente:
        ```bash
        npm start:client
-  - Inicias el cliente en otra maquina:
+
+   - Inicias el cliente en otra maquina:
        ```bash
        npm start:client
 
   *Listo ya lo puedes usar.*
+
   *En un futuro intentare poner que se puda copiar imagenes.*
 
 ## Contribución
