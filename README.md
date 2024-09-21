@@ -32,17 +32,16 @@ Pudiendo asi compartir entre ellos el portapapeles de todos siendo siempre dispo
    > Debes de estar dentro de la misma WIFI.
    
   - Inicias el cliente:
-       ```bash
-       npm start:client
+      ```bash
+      npm run start:client
 
    - Inicias el cliente en otra maquina:
-       ```bash
-       npm start:client
+      ```bash
+      npm run start:client
 
   *Listo ya lo puedes usar.*
 
-  *En un futuro intentare poner que se puda copiar imagenes.*
+  *En un futuro intentare poner que se pueda copiar archivos.*
 
 ## Contribución
-   ***Hecho con amor ❤️​ por [AlfonsoEscobar](https://github.com/AlfonsoEscobar)***
-
+   ***Hecho con ❤️​ por [AlfonsoEscobar](https://github.com/AlfonsoEscobar)***
